@@ -3,6 +3,4 @@ For firms providing large services. There is a mainframe which is used to compil
 This python scripts automates the testing process and suggests adequate changes to correct the order if ANY. 
 This is how it works essentially\
 
-
-
 <img width="4303" alt="PDFOrderCheckFlowChart" src="https://github.com/syerak748/PDFOrderCheck/assets/72925736/3378928e-0d48-4ce0-af2f-64ef2accd4cf">
