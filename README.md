@@ -4,5 +4,6 @@ This python scripts automates the testing process and suggests adequate changes 
 This is how the initial pdf and reference sheet looks :\
 [SAMPLEPDF.pdf](https://github.com/user-attachments/files/15543415/SAMPLEPDF.pdf)\
 [SampleReferenceSheet.xlsx](https://github.com/user-attachments/files/15543417/SampleReferenceSheet.xlsx)\
-This is how the output looks \![image](https://github.com/syerak748/PDFOrderCheck/assets/72925736/dba31c6b-2418-4a9b-b6b6-edd111ef8021)
+This is how the output looks\ 
+![image](https://github.com/syerak748/PDFOrderCheck/assets/72925736/dba31c6b-2418-4a9b-b6b6-edd111ef8021)
 
